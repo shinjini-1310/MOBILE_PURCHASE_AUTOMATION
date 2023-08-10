@@ -1,0 +1,68 @@
+2023-07-29 13:49:16,138 : INFO : test_e2e : GETTING ALL THE CARD TITLES
+2023-07-29 13:49:16,181 : INFO : test_e2e : iphone X
+2023-07-29 13:49:16,189 : INFO : test_e2e : Samsung Note 8
+2023-07-29 13:49:16,199 : INFO : test_e2e : Nokia Edge
+2023-07-29 13:49:16,207 : INFO : test_e2e : Blackberry
+2023-07-29 13:49:20,470 : INFO : test_e2e : ENTERING COUNTRY NAME PARTIALLY
+2023-07-29 13:49:31,928 : INFO : test_e2e : TEXT RECEIVED FROM APPLICATION ALERT
+2023-07-29 13:52:24,404 : INFO : test_e2e : GETTING ALL THE CARD TITLES
+2023-07-29 13:52:24,441 : INFO : test_e2e : iphone X
+2023-07-29 13:52:24,458 : INFO : test_e2e : Samsung Note 8
+2023-07-29 13:52:24,471 : INFO : test_e2e : Nokia Edge
+2023-07-29 13:52:24,975 : INFO : test_e2e : Blackberry
+2023-07-29 13:52:29,764 : INFO : test_e2e : ENTERING COUNTRY NAME PARTIALLY
+2023-07-29 13:52:42,016 : INFO : test_e2e : TEXT RECEIVED FROM APPLICATION ALERT
+2023-07-29 13:53:08,473 : INFO : test_e2e : GETTING ALL THE CARD TITLES
+2023-07-29 13:53:08,608 : INFO : test_e2e : iphone X
+2023-07-29 13:53:08,647 : INFO : test_e2e : Samsung Note 8
+2023-07-29 13:53:08,660 : INFO : test_e2e : Nokia Edge
+2023-07-29 13:53:08,669 : INFO : test_e2e : Blackberry
+2023-07-29 13:53:13,245 : INFO : test_e2e : ENTERING COUNTRY NAME PARTIALLY
+2023-07-29 13:53:24,687 : INFO : test_e2e : TEXT RECEIVED FROM APPLICATION ALERT
+2023-07-29 13:53:24,688 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-29 14:01:49,249 : INFO : test_e2e : GETTING ALL THE CARD TITLES
+2023-07-29 14:01:49,278 : INFO : test_e2e : iphone X
+2023-07-29 14:01:49,288 : INFO : test_e2e : Samsung Note 8
+2023-07-29 14:01:49,300 : INFO : test_e2e : Nokia Edge
+2023-07-29 14:01:49,312 : INFO : test_e2e : Blackberry
+2023-07-29 14:01:53,577 : INFO : test_e2e : ENTERING COUNTRY NAME PARTIALLY
+2023-07-29 14:02:05,063 : INFO : test_e2e : TEXT RECEIVED FROM APPLICATION ALERT
+2023-07-29 14:02:05,063 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-29 14:19:51,580 : INFO : test_e2e : GETTING ALL THE CARD TITLES
+2023-07-29 14:19:51,611 : INFO : test_e2e : iphone X
+2023-07-29 14:19:51,621 : INFO : test_e2e : Samsung Note 8
+2023-07-29 14:19:51,638 : INFO : test_e2e : Nokia Edge
+2023-07-29 14:19:51,648 : INFO : test_e2e : Blackberry
+2023-07-29 14:19:56,018 : INFO : test_e2e : ENTERING COUNTRY NAME PARTIALLY
+2023-07-29 14:20:08,692 : INFO : test_e2e : TEXT RECEIVED FROM APPLICATION ALERT
+2023-07-29 14:20:08,692 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-29 14:32:29,170 : INFO : test_e2e : GETTING ALL THE CARD TITLES
+2023-07-29 14:32:29,212 : INFO : test_e2e : iphone X
+2023-07-29 14:32:29,230 : INFO : test_e2e : Samsung Note 8
+2023-07-29 14:32:29,241 : INFO : test_e2e : Nokia Edge
+2023-07-29 14:32:29,253 : INFO : test_e2e : Blackberry
+2023-07-29 14:32:33,673 : INFO : test_e2e : ENTERING COUNTRY NAME PARTIALLY
+2023-07-29 14:32:45,186 : INFO : test_e2e : TEXT RECEIVED FROM APPLICATION ALERT
+2023-07-29 14:32:45,186 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-31 14:48:09,397 : INFO : test_e2e : GETTING ALL THE CARD TITLES
+2023-07-31 14:48:09,449 : INFO : test_e2e : iphone X
+2023-07-31 14:48:09,465 : INFO : test_e2e : Samsung Note 8
+2023-07-31 14:48:09,479 : INFO : test_e2e : Nokia Edge
+2023-07-31 14:48:09,495 : INFO : test_e2e : Blackberry
+2023-07-31 14:48:14,884 : INFO : test_e2e : ENTERING COUNTRY NAME PARTIALLY
+2023-07-31 14:48:26,444 : INFO : test_e2e : TEXT RECEIVED FROM APPLICATION ALERT
+2023-07-31 14:48:26,444 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-04 14:09:26,904 : INFO : test_e2e : GETTING ALL THE CARD TITLES
+2023-08-04 14:09:27,008 : INFO : test_e2e : iphone X
+2023-08-04 14:09:27,027 : INFO : test_e2e : Samsung Note 8
+2023-08-04 14:09:27,050 : INFO : test_e2e : Nokia Edge
+2023-08-04 14:09:27,072 : INFO : test_e2e : Blackberry
+2023-08-04 14:09:32,884 : INFO : test_e2e : ENTERING COUNTRY NAME PARTIALLY
+2023-08-04 14:09:44,506 : INFO : test_e2e : TEXT RECEIVED FROM APPLICATION ALERT
+2023-08-04 14:09:44,506 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
