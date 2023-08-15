@@ -3,7 +3,7 @@
 Pre-requisites:
 1)Python should be installed and its path should be added to environment variable 
 2)Requires installation and import of certain packages : selenium,pytest,time,inspect,logging
-2)A steady Internet connection
+3)A steady Internet connection
 4)Knowledge of the philosophies of Page Object Mechanism(POM), Object-Oriented Programming System(OOPs), Web Testing Automation and User Friendly Customization
 
 SUMMARY
@@ -22,6 +22,9 @@ Automated Testcase Status Assertion: We used assertions to validate if expected 
 Improved Readability: Usage of OOPs and POM philosophies imparts a Divide and Conquer quality to the utility, making each class and their functions more task (or webpage) specific and readable to the developers working with legacy code
 Customizable Utilization: Browser selection at runtime, ability to quickly target a specific function in a specific webpage for client requested modifications
 Learning Opportunity: We learnt standards of writing Selenium tests in frameworks,creating browser invocation fixtures in conftest.py,setting up base class to hold all common utilities,inheriting base class to all tests to remove fixture redundant code, passing command line options to select browser at runtime,implementing Page Object Mechanism,smarter way of returning page objects from navigation methods,creating Selenium webdriver custom utilities in base class, parameterizing webdriver tests with multiple datasets,organizing data from different datafiles and injecting into fixture at runtime ,implementing logging feature to webdriver tests,test execution's html reporting while building this automated testcase
+
+TRIGGER COMMAND : 
+py.test [PYTHON_FILENAME_WITH_LOCATION] -v -s --html=report.html
 
 
 
